@@ -1,2 +1,5 @@
 hi guys
-heyyyyyyyyyyyyygit status
+heyyyyyyyyyyyyy
+git init
+git add .
+git commit -m "added text files"
