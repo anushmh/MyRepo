@@ -2,9 +2,4 @@ hi guys
 heyyyyyyyyyyyyy
 git init
 git add .
-git commit -m "added text files"
-
-gitttt
-
-
-hellooo git 
+git commit -m "added text file"
