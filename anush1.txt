@@ -1,6 +1,23 @@
+yum install git -y
 git remote add origin "Link"
 git init
 git pull
 gittt add .
 git commit -m "message"
 git push -u origin main
+
+yum install docker -y
+systemctl enable docker
+systemctl start docker
+systemctl status docker
+docker images
+docker run --it -p --name 9000:80 nginx /bin/bash
+docker ps 
+docker ps -a
+docker attach "docker name"
+docker rm "docker name /id" 
+docker rmi "image name"
+docker volume ls
+docker create "volume name"
+docker stop "container name/Id"
+docker kill "container name/Id"
