@@ -1,14 +1,6 @@
-hello
-hello anush
-
-
-
+git remote add origin "Link"
 git init
 git pull
 gittt add .
 git commit -m "message"
-git push -u origin 
-
-
-
-gitttttt hello
+git push -u origin main
