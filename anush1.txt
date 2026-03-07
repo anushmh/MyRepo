@@ -8,3 +8,7 @@ git pull
 gittt add .
 git commit -m "message"
 git push -u origin 
+
+
+
+gitttttt
