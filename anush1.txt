@@ -23,3 +23,5 @@ docker volume ls
 docker create "volume name"
 docker stop "container name/Id"
 docker kill "container name/Id"
+
+jenkins pipeline
