@@ -25,3 +25,5 @@ docker stop "container name/Id"
 docker kill "container name/Id"
 
 jenkins pipeline
+ stages 
+ stage
